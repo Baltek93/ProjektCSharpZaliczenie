@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjektCsharp.ContainerPictures">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAAIAQAAIAIAACAAAAAQAAAAEAAAAAEAAAAAA=</HashCode>
+      <FileName>ContainerPictures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.ControlGuessingGame">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControlGuessingGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.EqualedString">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>EqualedString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.MainForm">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Method Name="button1_Click" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Method Name="button3_Click" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Method Name="button4_Click" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Method Name="button6_Click" Hidden="true" />
+      <Field Name="CheckButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panel3" Hidden="true" />
+      <Field Name="panel4" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Method Name="pictureBox1_Click" Hidden="true" />
+      <Field Name="pictureBox10" Hidden="true" />
+      <Method Name="pictureBox10_Click" Hidden="true" />
+      <Field Name="pictureBox11" Hidden="true" />
+      <Method Name="pictureBox11_Click" Hidden="true" />
+      <Field Name="pictureBox12" Hidden="true" />
+      <Method Name="pictureBox12_Click" Hidden="true" />
+      <Field Name="pictureBox13" Hidden="true" />
+      <Method Name="pictureBox13_Click" Hidden="true" />
+      <Field Name="pictureBox14" Hidden="true" />
+      <Method Name="pictureBox14_Click" Hidden="true" />
+      <Field Name="pictureBox15" Hidden="true" />
+      <Method Name="pictureBox15_Click" Hidden="true" />
+      <Field Name="pictureBox16" Hidden="true" />
+      <Method Name="pictureBox16_Click" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Method Name="pictureBox2_Click" Hidden="true" />
+      <Field Name="pictureBox3" Hidden="true" />
+      <Method Name="pictureBox3_Click" Hidden="true" />
+      <Field Name="pictureBox4" Hidden="true" />
+      <Method Name="pictureBox4_Click" Hidden="true" />
+      <Field Name="pictureBox5" Hidden="true" />
+      <Method Name="pictureBox5_Click" Hidden="true" />
+      <Field Name="pictureBox6" Hidden="true" />
+      <Method Name="pictureBox6_Click" Hidden="true" />
+      <Field Name="pictureBox7" Hidden="true" />
+      <Method Name="pictureBox7_Click" Hidden="true" />
+      <Field Name="pictureBox8" Hidden="true" />
+      <Method Name="pictureBox8_Click" Hidden="true" />
+      <Field Name="pictureBox9" Hidden="true" />
+      <Method Name="pictureBox9_Click" Hidden="true" />
+      <Field Name="radioButton1" Hidden="true" />
+      <Field Name="radioButton2" Hidden="true" />
+      <Field Name="radioButton3" Hidden="true" />
+      <Field Name="radioButton4" Hidden="true" />
+      <Field Name="textBox1" Hidden="true" />
+      <Field Name="textBox2" Hidden="true" />
+      <Field Name="textBox3" Hidden="true" />
+      <Field Name="textBox4" Hidden="true" />
+      <Field Name="textBox5" Hidden="true" />
+      <Field Name="textBox6" Hidden="true" />
+      <Field Name="tymczasowazmiennainteger" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACAAMhAAATAAIRjUAACQQARCJcE5AAOAUHArAYBAMAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.ReadFileTxt">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAgAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReadFileTxt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.Program">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.Quiz">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Quiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.Properties.Resources">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEQAAAAAQAIQAABEAAAAQABAAGAAAAAQCAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektCsharp.Properties.Settings">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

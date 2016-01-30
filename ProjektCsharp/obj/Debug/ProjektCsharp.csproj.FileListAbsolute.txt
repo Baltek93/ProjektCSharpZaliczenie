@@ -1,0 +1,12 @@
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\bin\Debug\ProjektCsharp.exe.config
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\bin\Debug\ProjektCsharp.exe
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\bin\Debug\ProjektCsharp.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\bin\Debug\System.Web.Mvc.dll
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\bin\Debug\System.Web.Mvc.xml
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\obj\Debug\ProjektCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\obj\Debug\ProjektCsharp.MainForm.resources
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\obj\Debug\ProjektCsharp.Properties.Resources.resources
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\obj\Debug\ProjektCsharp.csproj.GenerateResource.Cache
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\obj\Debug\ProjektCsharp.exe
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\obj\Debug\ProjektCsharp.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\ProjektCsharp\ProjektCsharp\obj\Debug\ProjektCsharp.g.resources
